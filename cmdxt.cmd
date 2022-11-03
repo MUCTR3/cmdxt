@@ -1,3 +1,4 @@
-set path=%path%;Z:\PortableApps\PortableGit\bin;Z:\PortableApps\PortableGit\cmd;Z:\PortableApps\PortableGit
+set drv=Z
+set path=%path%;%drv%:\PortableApps\PortableGit\bin;%drv%:\PortableApps\PortableGit\cmd;%drv%:\PortableApps\PortableGit
 cmd /K
 pause
