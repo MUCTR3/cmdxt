@@ -1,2 +1,2 @@
-Z:\cmdx\cmdxt.cmd
+%~dp0\cmdxt.cmd
 pause

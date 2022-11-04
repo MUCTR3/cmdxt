@@ -1,5 +1,5 @@
 set drv=%~d0
-set pathgit=%drv%:\PortableApps\PortableGit
-set path=%path%;%pathgit%\bin;%pathgit%\cmd;%pathgit%
+set pathgit=%drv%\PortableApps\PortableGit
+set path=%pathgit%\bin;%pathgit%\cmd;%pathgit%;%path%
 cmd /K
 pause
