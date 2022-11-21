@@ -4,8 +4,10 @@ cmd eXTended
 
 It loads dynamically items of PATH variable in each instance window of cmd-interpreter.
 
-cmdxt on the same disk where PortableApps
+cmdxt folder must be situated on the same disk where PortableApps.
 
-dynamically items to the beginning
+dynamically items is prepending to the beginning of PATH variable.
+
+path to PortableGit
 
 path to Sublime Text
